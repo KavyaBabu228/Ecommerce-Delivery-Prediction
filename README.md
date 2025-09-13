@@ -41,14 +41,4 @@ It also explores key factors influencing delivery and customer behavior.
 
 ---
 
-## 🚀 How to Run
-```bash
-# Clone repo
-git clone https://github.com/<your-username>/Ecommerce-Delivery-Prediction.git
-cd Ecommerce-Delivery-Prediction
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run Jupyter notebook
-jupyter notebook notebooks/EDA_Modeling.ipynb
